@@ -8,7 +8,6 @@ function addPara(text = ``) {
   } else {
     console.log(`<p> element not created because the string was empty`)
   }
-  
 }
 
 function doFizzBuzz(num = 1) {
