@@ -1,6 +1,6 @@
-Name: FizzBuzz
+## FizzBuzz
 
-Description: 
+**Description:**
 - Print numbers from 1 to `num`. 
 - For multiples of 3 print `Fizz` instead of the number.
 - For multiples of 5 print `Buzz` instead of the number.
