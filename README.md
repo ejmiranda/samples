@@ -12,5 +12,6 @@ Description: Small projects for future reference.
 8. Learn CSS Layout: Replicate the div style to practice CSS.
 9. Learn CSS Layout Kaio-Ken: Applying the style to the whole layout.
 10. Clearfix Hamster: Use clearfix to wrap text around the image of a hamster. 
+11. Number Guessing Game: Hot and Cold with number guessing using JS.
 
 Quote: "What's in the box?" - David Mills
