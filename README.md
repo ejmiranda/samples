@@ -14,5 +14,6 @@ Description: Small projects for future reference.
 10. Clearfix Hamster: Use clearfix to wrap text around the image of a hamster. 
 11. Number Guessing Game: Hot and Cold with number guessing using JS.
 12. Product List: Split strings in an array to create a list of products and prices.
+13. Top Searches: Create a list with the last search terms.
 
 Quote: "What's in the box?" - David Mills
