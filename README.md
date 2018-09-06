@@ -4,7 +4,7 @@ Description: Small projects for future reference.
 
 1. Template: File structure for new projects.
 2. MDN Test Site: First dummy site.
-3. Android Logo: Use `<div>`s and CSS to create an animated logo.
+3. Android Logo: Use `<div>` and CSS to create an animated logo.
 4. Light Blue Site: Introduction to floats and clearfix.
 5. Floating Paras: Layout exercise with floats.
 6. Floating Color Boxes: Move boxes with float and clear.
