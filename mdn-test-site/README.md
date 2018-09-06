@@ -1,5 +1,4 @@
 Name: MDN Test Site
 
 Description:
-- First site built following the MDN intro tutorial.
-- First encounter with JavaScript.
+- From MDN's [Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web).

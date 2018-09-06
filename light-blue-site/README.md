@@ -1,6 +1,6 @@
 Name: Light Blue Site
 
 Description:
-- From LearnWebCode tutorial: Understanding Floats.
-- Replicated the site layout using div's and the float property.
+- From LearnWebCode's [Video](https://www.youtube.com/watch?v=AyrQR7SxAq8)).
+- Replicate the site layout using `<div>` and the positioning property.
 - Includes the clearfix hack.
