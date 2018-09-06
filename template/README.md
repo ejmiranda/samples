@@ -1,4 +1,4 @@
-Name: Template
+## Template
 
-Description:
-- File structure for new projects.
+**Description:**
+- File structure for new projects (September 2018).

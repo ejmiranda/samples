@@ -1,6 +1,6 @@
-Name: Silly Story Generator
+## Silly Story Generator
 
-Description:
+**Description:**
 - From MDN's [Tutorial](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator).
 - User inputs a name and presses a button to generate a random story.
 - Strings from arrays replace placeholder in a story.
