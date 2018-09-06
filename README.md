@@ -17,5 +17,6 @@ Description: Small projects for future reference.
 13. Top Searches: Create a list with the last search terms.
 14. Silly Story Generator: Generate a random story from text in arrays.
 15. Pow: User inputs two numbers for exponentiation.
+16. FizzBuzz: Print X numbers. Multiples of 3 and/or 5 get 'Fizz', 'Buzz' or both.
 
 Quote: "What's in the box?" - David Mills
