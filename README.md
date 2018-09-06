@@ -15,5 +15,6 @@ Description: Small projects for future reference.
 11. Number Guessing Game: Hot and Cold with number guessing using JS.
 12. Product List: Split strings in an array to create a list of products and prices.
 13. Top Searches: Create a list with the last search terms.
+14. Silly Story Generator: Generate a random story from text in arrays.
 
 Quote: "What's in the box?" - David Mills
