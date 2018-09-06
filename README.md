@@ -10,5 +10,6 @@ Description: Small projects for future reference.
 6. Floating Color Boxes: Moving boxes with float and clear.
 7. Forms Intro: Several form elements grouped together.
 8. Learn CSS Layout: Copied the div style used to practice CSS.
+9. Learn CSS Layout Kaio-Ken: Used the style in the whole layout.
 
 Quote: "What's in the box?" - David Mills
