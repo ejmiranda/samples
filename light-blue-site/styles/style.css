@@ -1,0 +1,52 @@
+body {
+  background-color: #d3e8ec;
+  line-height: 30px;
+  font-family: 'Droid Sans', Arial;
+  text-align: justify;
+}
+
+h1 {
+  font-size: 225%;
+}
+
+.content {
+  border: 2px solid #91b7bc;
+  margin: 30px;
+}
+
+section {
+  background-color: white;
+  padding: 25px 50px 25px 25px;
+}
+
+footer {
+  background-color: #91b7bc;
+  color: #d3e8ec;
+  padding: 5px 0 5px 25px;
+  font-weight: bold;
+}
+
+.bar {
+  background-color: #f9f0b8;
+  border: 2px solid #ebe7be;
+  margin: 0 0 0 25px;
+  padding: 0 15px 0 0;
+  float: right;
+}
+
+.clearfix:after {
+  clear: both;
+  content: ".";
+  display: block;
+  height: 0;
+  visibility: hidden;
+}
+
+.clearfix {
+  display: inline-block;
+}
+
+/* Hides from IE-mac \*/
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}
+/* End hide from IE-mac */
