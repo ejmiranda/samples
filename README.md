@@ -16,5 +16,6 @@ Description: Small projects for future reference.
 12. Product List: Split strings in an array to create a list of products and prices.
 13. Top Searches: Create a list with the last search terms.
 14. Silly Story Generator: Generate a random story from text in arrays.
+15. Pow: User inputs two numbers for exponentiation.
 
 Quote: "What's in the box?" - David Mills
