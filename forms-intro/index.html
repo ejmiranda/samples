@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/styles/styles.css">
+    <title>Forms</title>
+  </head>
+  <body>
+    <form action="#" method="POST" name="my-form">
+      <fieldset class="container">
+        <legend>User Information</legend>
+        <fieldset class="login">
+          <legend>Login</legend>
+          <label for="username">Username</label>
+          <input type="text" name="username" id="username"><br>
+          <label for="password">Password</label>
+          <input type="password" name="password" id="password"><br>
+        </fieldset><br>
+        <fieldset class="gender">
+          <legend>Gender</legend>
+          <input type="radio" name="gender" id="male" value="male" checked>
+          <label for="male">Male</label><br>
+          <input type="radio" name="gender" id="female" value="female">
+          <label for="female">Female</label><br>
+        </fieldset><br>
+        <fieldset class="hobby">
+          <legend>Hobby</legend>
+          <input type="checkbox" name="hobby" id="drawing" value="drawing">
+          <label for="drawing">Drawing</label><br>
+          <input type="checkbox" name="hobby" id="exercise" value="exercise">
+          <label for="exercise">Exercise</label><br>
+          <input type="checkbox" name="hobby" id="movies" value="movies">
+          <label for="movies">Movies</label><br>
+        </fieldset><br>
+        <input type="submit" value="Continue">
+      </fieldset>
+    </form>
+  </body>
+</html>

@@ -8,5 +8,6 @@ Description: Small projects for future reference.
 4. Light Blue Site: Understanding floats and clearfix.
 5. Floating Paras: Layout exercise with floats.
 6. Floating Color Boxes: Moving boxes with float and clear.
+7. Forms Intro: Various form HTML elements grouped together.
 
 Quote: "What's in the box?" - David Mills
