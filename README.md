@@ -19,4 +19,4 @@ Description: Small projects for future reference.
 15. Pow: User inputs two numbers for exponentiation.
 16. FizzBuzz: Print numbers. Multiples of 3 and/or 5 get 'Fizz', 'Buzz' or both.
 
-> **--"What's in the box?"--** - David Mills
+> **_"What's in the box?"_** - David Mills
