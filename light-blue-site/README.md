@@ -1,4 +1,4 @@
-Name: Android Logo
+Name: Light Blue Site
 
 Description:
 - From LearnWebCode tutorial: Understanding Floats.
