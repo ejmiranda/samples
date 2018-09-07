@@ -3,4 +3,4 @@
 **Description:**
 - From Learn CSS Layout's [Tutorial](http://learnlayout.com/position-example.html).
 - Full layout with style for all elements.
-- Includes a fixed footer.
+- Include a fixed footer.
