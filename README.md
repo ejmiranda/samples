@@ -18,7 +18,7 @@
 14. **Silly Story Generator:** Generate a random story from text in arrays.
 15. **Pow:** User inputs two numbers for exponentiation.
 16. **FizzBuzz:** Print numbers. Multiples of 3 and/or 5 get `Fizz`, `Buzz` or both.
-17. **Guest List:** Checks a guest list and adds names to a refused list or to an admitted list.
-18. **Show Primes:** Prints all the prime numbers, between 2 and `num`, to the console.
+17. **Guest List:** Check a guest list and adds names to a refused list or to an admitted list.
+18. **Show Primes:** Print all the prime numbers, between 2 and `num`, to the console.
 
 > **_"What's in the box?"_** - David Mills
