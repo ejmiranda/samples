@@ -9,7 +9,7 @@
 5. **Floating Paras:** Paragraph layout with float.
 6. **Floating Color Boxes:** Move boxes with float and clear.
 7. **Forms Intro:** Several form elements grouped together.
-8. **Learn CSS Layout:** Replicate the `<div>`style to practice CSS.
+8. **Learn CSS Layout:** Replicate the `<div>` style to practice CSS.
 9. **Learn CSS Layout Kaio-Ken:** Apply the style to the whole layout.
 10. **Clearfix Hamster:** Use clearfix to justify text next to an image of a hamster. 
 11. **Number Guessing Game:** Hot and Cold with number guessing.
