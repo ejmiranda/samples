@@ -1,3 +1,4 @@
+/*
 const removeFromArray = function(array) {
   let removedArray = [];
   outer:
@@ -10,4 +11,10 @@ const removeFromArray = function(array) {
     removedArray.push(array[i]);
   }
   return removedArray;
+}
+*/
+
+var removeFromArray = function(...args) {
+  const array = args[0]
+  return array.filter(val => !args.includes(val))
 }
