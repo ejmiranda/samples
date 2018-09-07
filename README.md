@@ -20,5 +20,6 @@
 16. **FizzBuzz:** Print numbers. Multiples of 3 and/or 5 get `Fizz`, `Buzz` or both.
 17. **Guest List:** Check a guest list and adds names to a refused list or to an admitted list.
 18. **Show Primes:** Print all the prime numbers, between 2 and `num`, to the console.
+19. **Reverse String:** Reverse a string with spaces, numbers or special characters.
 
 > **_"What's in the box?"_** - David Mills
