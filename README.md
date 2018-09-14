@@ -8,7 +8,7 @@
 4. **Light Blue Site:** Introduction to positioning and clearfix.
 5. **Floating Paras:** Paragraph layout with float.
 6. **Floating Color Boxes:** Move boxes with float and clear.
-7. **Forms Intro:** Several form elements grouped together.
+7. **Forms Intro:** Introduction to form elements.
 8. **Learn CSS Layout:** Replicate the `<div>` style to practice CSS.
 9. **Learn CSS Layout Kaio-Ken:** Apply the style to the whole layout.
 10. **Clearfix Hamster:** Use clearfix to justify text next to an image of a hamster. 
@@ -18,7 +18,7 @@
 14. **Silly Story Generator:** Generate a random story from text in arrays.
 15. **Pow:** Exponentiate two numbers from the user.
 16. **FizzBuzz:** Print numbers. Multiples of 3 and/or 5 get `Fizz`, `Buzz` or both.
-17. **Guest List:** Check a guest list and adds names to a refused list or to an admitted list.
+17. **Guest List:** Check a guest list and add names to a refused list or to an admitted list.
 18. **Show Primes:** Print all the prime numbers, between 2 and `num`, to the console.
 19. **Reverse String:** Reverse a string with spaces, numbers or special characters.
 20. **Remove From Array:** Receive an array and an undefined number of elements to remove from it.
