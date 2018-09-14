@@ -1,6 +1,5 @@
 ## Forms Intro
 
 **Description:**
-- Introduction to forms.
-- Include several types of form elements.
+- Introduction to forms and several form elements.
 - Labels, text boxes, radio buttons, checkboxes and a submit button.
