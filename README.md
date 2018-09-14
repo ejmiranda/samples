@@ -23,6 +23,6 @@
 19. **Reverse String:** Reverse a string with spaces, numbers or special characters.
 20. **Remove From Array:** Receive an array and an undefined number of elements to remove from it.
 21. **Table From Objects Array:** Receive and array of objects and create a table.
-22. **Elements By Tag:** Recursive function returns an array of children of a node with a specified tag name.
+22. **Elements By Tag:** Recursive function returns an array of the children of a node with the specified tag name.
 
 > **_"What's in the box?"_** - David Mills
