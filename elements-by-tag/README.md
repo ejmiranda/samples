@@ -1,5 +1,5 @@
 ## Elements By Tag
 
 **Description:**
-- Function receives a node and a tag name, then returns an array with all the element children of the node that have the tag name.
+- Return an array with all the children of a node that have a specific tag name.
 - First use of recursion.
