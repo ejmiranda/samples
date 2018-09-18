@@ -1,0 +1,52 @@
+body {
+  background-color: whitesmoke;
+  padding: 10px;
+  width: 600px;
+}
+
+.menu {
+  border-bottom: 4px solid #2a72ac;
+}
+
+button {
+  background-color: #d9e9fb;
+  border: 1px solid lightgrey;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  color: black;
+  font-size: 13px;
+  height: 30px;
+  outline: none;
+  padding: 5px;
+  width: 55px;
+}
+
+button:hover,
+.selected {
+  background-color: #2a72ac;
+  border: 1px solid #2a72ac;
+  color: white;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.page {
+  background-color: white;
+  border: 1px solid lightgrey;
+  border-top: none;
+  padding: 10px;
+}
+
+.name {
+  border-bottom: 1px solid lightgrey;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  padding: 5px 0;
+}
+
+.thumbnail {
+  margin: 10px 0 0 0;
+}
