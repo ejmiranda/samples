@@ -26,5 +26,6 @@
 22. **Elements By Tag:** Recursive function returns an array of the children of a node with a specific tag name.
 23. **Scroll Progress Bar:** Show a progress bar while scrolling a page.
 24. **Red Balloons:** Red balloons increase and decrease size with `ArrowUp` and `ArrowDown`.
+25. **Mouse Trail:** Create `div` elements that trail the mouse pointer as it moves. 
 
 > **_"What's in the box?"_** - David Mills
