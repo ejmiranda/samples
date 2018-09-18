@@ -25,5 +25,6 @@
 21. **Table From Objects Array:** Receive and array of objects and create a table.
 22. **Elements By Tag:** Recursive function returns an array of the children of a node with a specific tag name.
 23. **Scroll Progress Bar:** Show a progress bar while scrolling a page.
+24. **Red Balloons:** Red balloons increase and decrease size with `ArrowUp` and `ArrowDown`.
 
 > **_"What's in the box?"_** - David Mills
