@@ -12,7 +12,6 @@ const palindromes = function(str) {
 }
 
 /*From The Odin's Project*/
-
 const odinPalindromes = function(string) {
   processedString = string.toLowerCase().replace(/[^A-Za-z]/g, "");
   return (
