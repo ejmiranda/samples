@@ -10,5 +10,3 @@ const palindromes = function(str) {
   }  
   return true;
 }
-
-module.exports = palindromes
