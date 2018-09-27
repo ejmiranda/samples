@@ -28,5 +28,6 @@
 24. **Red Balloons:** Red balloons increase and decrease size with `ArrowUp` and `ArrowDown`.
 25. **Mouse Trail:** Create `div` elements that trail the mouse pointer as it moves. 
 26. **Tab Menu:** Create a tab menu for character pages from an array of character objects.
+27. **Palindromes:** Check if a string is a palindrome.
 
 > **_"What's in the box?"_** - David Mills
