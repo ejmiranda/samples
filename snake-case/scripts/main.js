@@ -11,7 +11,7 @@ function snakeCase(string) {
   //All cases except WTF
   let regexp = /[A-Z]*[a-z]+/g; 
 
-  //WTF Case
+  //WTF case
   if (/\.\./.test(string)) 
     regexp = /\w+/g;
   
