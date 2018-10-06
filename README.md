@@ -30,5 +30,6 @@
 26. **Tab Menu:** Create a tab menu for character pages from an array of character objects.
 27. **Palindromes:** Check if a string is a palindrome.
 28. **Snake Case:** Receive a string and return it in `snake_case`.
+29. **Caesar Cipher:** Use the Caesar Cipher on a string, given a shift value.
 
 > **_"What's in the box?"_** - David Mills
