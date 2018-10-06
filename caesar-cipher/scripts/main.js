@@ -5,6 +5,6 @@ const caesar = (string, shift) => {
     let shiftCode = letter.charCodeAt() + shift;
     let wrapCode = 
         shiftCode - RANGE * Math.floor((shiftCode - limit) / RANGE);
-    return `${String.fromCharCode(wrapCode)}`;
+    return String.fromCharCode(wrapCode);
   });
 }
