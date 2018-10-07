@@ -31,5 +31,6 @@
 27. **Palindromes:** Check if a string is a palindrome.
 28. **Snake Case:** Receive a string and return it in `snake_case`.
 29. **Caesar Cipher:** Use the Caesar Cipher on a string, given a shift value.
+30. **Pig Latin:** Translate a string to Pig Latin.
 
 > **_"What's in the box?"_** - David Mills
