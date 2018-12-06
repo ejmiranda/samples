@@ -32,7 +32,7 @@
 28. **Snake Case:** Receive a string and return it in `snake_case`.
 29. **Caesar Cipher:** Use the Caesar Cipher on a string, given a shift value.
 30. **Pig Latin:** Translate a string to Pig Latin.
-31. **Infinite Word Sorter:** Get, sort and print infinite words from user.
-32. **Content From Array:** Print a formatted content table from entries in an array.
+31. **Infinite Word Sorter (Ruby):** Get, sort and print infinite words from user.
+32. **Content From Array (Ruby):** Print a formatted content table from entries in an array.
 
 > **_"What's in the box?"_** - David Mills
