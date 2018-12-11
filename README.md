@@ -33,6 +33,7 @@
 29. **Caesar Cipher:** Use the Caesar Cipher on a string, given a shift value.
 30. **Pig Latin:** Translate a string to Pig Latin.
 31. **Infinite Word Sorter (Ruby):** Get, sort and print infinite words from user.
-32. **Content From Array (Ruby):** Print a formatted content table from entries in an array.
+32. **Content Table From Array (Ruby):** Print a formatted content table from entries in an array.
+33. **English Number (Ruby):** Enter a number from 0 to 1,000,000 and get it back as english text.
 
 > **_"What's in the box?"_** - David Mills
