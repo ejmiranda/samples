@@ -35,5 +35,6 @@
 31. **Infinite Word Sorter (Ruby):** Get, sort and print infinite words from user.
 32. **Content Table From Array (Ruby):** Print a formatted content table from entries in an array.
 33. **English Number (Ruby):** Enter a number from 0 to 1,000,000 and get it back as english text.
+34. **Largest Prime Factor (Ruby):** Find the largest prime factor of the number 600,851,475,143.
 
 > **_"What's in the box?"_** - David Mills
