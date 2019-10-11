@@ -1,4 +1,4 @@
 ## Template
 
 **Description:**
-- File structure for new projects (September 2018).
+- File structure for new projects (October 2019).
