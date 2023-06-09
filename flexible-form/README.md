@@ -1,6 +1,6 @@
 ## Flexible Form
 
-![Flexible Form Screenshot](https://raw.githubusercontent.com/ejmiranda/flexible-form/master/meta/screenshot.png)
+![Flexible Form Screenshot](https://github.com/ejmiranda/samples/blob/master/flexible-form/meta/Screenshot.JPG)
 
 **Description:**
 - From [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/).
