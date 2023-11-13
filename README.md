@@ -38,4 +38,6 @@
 34. **Largest Prime Factor (Ruby):** Find the largest prime factor of the number 600,851,475,143.
 35. **Number Practice (Ruby):** Introduction to numbers in Ruby v2.
 36. **Flexible Form:** Create a flexible form using Flexbox.
+36. **Extendable Calculator:** The Calculator allows addition of new operations.
+37. **Count Word Occurrences:** Use an object to count words from an array using reduce.
 > **_"What's in the box?"_** - David Mills
