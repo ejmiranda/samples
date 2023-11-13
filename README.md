@@ -30,7 +30,7 @@
 26. **Tab Menu:** Create a tab menu for character pages from an array of character objects.
 27. **Palindromes:** Check if a string is a palindrome.
 28. **Snake Case:** Receive a string and return it in `snake_case`.
-29. **Caesar Cipher:** Use the Caesar Cipher on a string, given a shift value.
+29. **Caesar Cipher:** Use the Caesar Cipher on a string given a shift value.
 30. **Pig Latin:** Translate a string to Pig Latin.
 31. **Infinite Word Sorter (Ruby):** Get, sort and print infinite words from user.
 32. **Content Table From Array (Ruby):** Print a formatted content table from entries in an array.
@@ -40,4 +40,5 @@
 36. **Flexible Form:** Create a flexible form using Flexbox.
 36. **Extendable Calculator:** The Calculator allows addition of new operations.
 37. **Count Word Occurrences:** Use an object to count words from an array using reduce.
+39. **Caesar Cipher (Ruby):** Use the Caesar Cipher on a string given a shift value.
 > **_"What's in the box?"_** - David Mills
