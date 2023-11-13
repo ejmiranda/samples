@@ -1,8 +1,7 @@
 def substrings(string, dictionary)
   adj_str = string.downcase
   dictionary.reduce({}) do |total_count, entry|
-    str_count = adj_str.scan(entry).length
-    total_count[entry] = str_count if str_count > 0
+    total_count[entry] = adj_str.scan(entry).length if adj_str.include?(entry)
     total_count
   end
 end
