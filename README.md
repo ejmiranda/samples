@@ -41,4 +41,5 @@
 36. **Extendable Calculator:** The Calculator allows addition of new operations.
 37. **Count Word Occurrences:** Use an object to count words from an array using reduce.
 39. **Caesar Cipher (Ruby):** Use the Caesar Cipher on a string given a shift value.
+40. **Substrings (Ruby):** Count the occurrences of a list of words in a string.
 > **_"What's in the box?"_** - David Mills
