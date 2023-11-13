@@ -1,8 +1,7 @@
 def substrings(string, dictionary)
-  # Replace any non-word character (punctuation) with a space
-  strings = string.gsub(/\W/, " ").downcase.split(" ")
+  adj_str = string.downcase
   dictionary.reduce({}) do |total_count, entry|
-    str_count = strings.count { |string| string.include?(entry) }
+    str_count = adj_str.scan(entry).length
     total_count[entry] = str_count if str_count > 0
     total_count
   end
