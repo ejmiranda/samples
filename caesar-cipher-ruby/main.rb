@@ -6,6 +6,7 @@ def caesar_cipher (string, key)
     adjusted_code.chr
   end
 end
+
 puts ("What a string!") # Original
 puts ("Bmfy f xywnsl!") # Expected
 puts caesar_cipher("What a string!", 5)
