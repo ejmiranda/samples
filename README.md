@@ -43,4 +43,5 @@
 39. **Caesar Cipher (Ruby):** Use the Caesar Cipher on a string given a shift value.
 40. **Substrings (Ruby):** Count the occurrences of a list of words in a string (Similar to 38).
 41. **Stock Picker (Ruby):** Take an array of stock prices and return the best days to buy and sell.
+42. **Bubble Sort (Ruby):** Take an array and return a sorted array using the bubble sort methodology.
 > **_"What's in the box?"_** - David Mills
